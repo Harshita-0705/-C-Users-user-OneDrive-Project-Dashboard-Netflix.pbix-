@@ -1,1 +1,3 @@
-# -C-Users-user-OneDrive-Project-Dashboard-Netflix.pbix-
+Netflix Insights Dashboard
+
+Visualizing Netflix Trends with Power BI & Python
